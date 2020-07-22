@@ -63,7 +63,7 @@ Alex needs to know when a player debuted. Alex was just going through some astro
 
 ### Progression 4: Get in the box!
 
-We've already decided the team formation. Now we need to filter players based on their position. This would help Alex decide who goes where. Create a function `filterByPosition()` which takes `position` as an argument and _returns an array of player objects_ that play in that position.
+We've already decided the team formation. Now we need to filter players based on their position. This would help Alex decide who goes where. Create a function `` which takes `position` as an argument and _returns an array of player objects_ that pfilterByPosition()lay in that position.
 
 ### Progression 5: Ooh...shinyyy!
 
